@@ -18,3 +18,6 @@ An AI-powered web app that analyzes resumes and suggests suitable job roles.
 ## ▶️ Run Locally
 pip install -r requirements.txt  
 streamlit run main.py
+
+## 🌐 Live Demo
+https://ai-resume-analyzer-jugd2xbh9ks8cjyecbugx8.streamlit.app/
